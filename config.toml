@@ -1,0 +1,12 @@
+[theme]
+base = "dark"
+primaryColor = "#E0A458"
+backgroundColor = "#0D1117"
+secondaryBackgroundColor = "#151B23"
+textColor = "#E6EDF3"
+
+[runner]
+fastReruns = true
+
+[browser]
+gatherUsageStats = false
